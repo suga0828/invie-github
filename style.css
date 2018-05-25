@@ -5,4 +5,15 @@ body {
 img {
 	width: 100%;
 	vertical-align: top;
+<<<<<<< HEAD
+=======
+}
+img#responsive {
+	display: none;
+}
+
+@media screen and (max-width: 768px) {
+	img#responsive {
+		display: block;
+>>>>>>> responsive
 }

@@ -1,6 +1,8 @@
 body {
 	margin:0;
+	border: 20px solid grey;
 }
 img {
 	width: 100%;
+	vertical-align: top;
 }
